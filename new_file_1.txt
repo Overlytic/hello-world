@@ -1,2 +1,3 @@
 Hallo. Changing this file try 1.
+This is branch1's first line added. Using vim. 
 This is the line added in the master. Orginally at line 2. But I will merge it to line 3. 
